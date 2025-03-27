@@ -8,8 +8,9 @@ using the GitHub API and clones them into a local directory.
 
 ## Running
 
-### Create a .env file in the project root and add your GitHub token
-    GITHUB_TOKEN=your_personal_access_token
+### Create a .env file in the project root and add your GitHub Token and your UserName
+    GITHUB_USERNAME=your_personal_user_name
+    GITHUB_TOKEN=your_personal_access_token    
 
 ### Install dependencies
     npm install
